@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 赛博厨房？？？ 👨‍💻🍳
+title: 赛博厨房???👨‍💻🍳
 ---
 
 > "stay foolish, don't stay hungry"
