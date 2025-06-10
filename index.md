@@ -3,11 +3,10 @@ layout: home
 title: 赛博厨房？？？ 👨‍💻🍳
 ---
 
-# 你好
+> "stay foolish, don't stay hungry"
 
-> "stay foolish, don't stay hungry" 
+ 
 
-由于我想要通过做出美味的料理来狠狠地享受生活，但是又记不住这些做菜的步骤，我弄了个这样的网站来帮助我做饭~😋
 
 ## 🔥 new recipes
 
@@ -36,6 +35,9 @@ title: 赛博厨房？？？ 👨‍💻🍳
 - ⚡ [其他]({{ '/categories/other' | relative_url }})
 
 
+## 😋 the ultimate meaning of the existence of this site
+
+由于我想要通过做出美味的料理来狠狠地享受生活，但是又记不住这些做菜的步骤，我弄了个这样的网站来帮助我做饭~😋  
 
 <style>
 .recipe-card {
