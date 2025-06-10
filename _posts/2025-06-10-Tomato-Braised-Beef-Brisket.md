@@ -37,4 +37,4 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 <br>
 
 ## ❗ PS
-如果觉得很好吃还可以在上面放些配菜，比如鹌鹑蛋或者生菜叶
+如果觉得汤很好吃还可以在上面放些配菜，比如鹌鹑蛋或者生菜叶
