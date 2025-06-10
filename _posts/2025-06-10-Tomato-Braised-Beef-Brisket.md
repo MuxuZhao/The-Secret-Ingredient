@@ -6,8 +6,17 @@ categories: [肉]
 image: "/assets/images/tomato-braised-beef-brisket.jpg"
 ---
 
+<style>
+.post-image {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+</style>
 
-![西红柿烧牛腩]({{ site.baseurl }}/assets/images/tomato-braised-beef-brisket.jpg)
+![西红柿烧牛腩]({{ site.baseurl }}/assets/images/tomato-braised-beef-brisket.jpg){: .post-image}
 
 ## 📝 material
 
