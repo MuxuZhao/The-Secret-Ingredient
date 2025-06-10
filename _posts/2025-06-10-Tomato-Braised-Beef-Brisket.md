@@ -18,7 +18,6 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 </style>
 
 ![西红柿烧牛腩]({{ site.baseurl }}/assets/images/tomato-braised-beef-brisket.jpg){: .post-image}
-@老四
 
 ## 📝 material
 
@@ -49,3 +48,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 
 ## ❗ PS
 如果觉得汤很好吃还可以在上面放些配菜，比如鹌鹑蛋或者生菜叶
+
+## ❤ credit
+@老四
+this dish has taste of grandmother's love!
