@@ -8,7 +8,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 
 <style>
 .post-image {
-  max-width: 80%;
+  max-width: 70%;
   height: auto;
   display: block;
   margin: 0 auto;
