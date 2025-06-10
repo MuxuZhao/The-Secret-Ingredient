@@ -24,4 +24,5 @@ plugins:
 
 # 网站设置
 show_excerpts: true
+show_featured_images: false
 paginate: 5
