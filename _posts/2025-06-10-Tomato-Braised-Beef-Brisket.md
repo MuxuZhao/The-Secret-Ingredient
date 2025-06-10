@@ -6,9 +6,10 @@ categories: [肉]
 image: "/assets/images/tomato-braised-beef-brisket.jpg"
 ---
 
+**@老四 (my grandmother!)**
 <style>
 .post-image {
-  max-width: 70%;
+  max-width: 75%;
   height: auto;
   display: block;
   margin: 0 auto;
