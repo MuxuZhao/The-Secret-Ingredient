@@ -9,7 +9,6 @@ title: 赛博厨房？？？ 👨‍💻🍳
 
 ## 🔥 new recipes
 
-<br>
 
 {% for post in site.posts limit:3 %}
 <div class="recipe-card">
@@ -33,7 +32,6 @@ title: 赛博厨房？？？ 👨‍💻🍳
 
 ## 🍽️ categories
 
-<br>
 
 **注意**：分类页面需要手动创建，暂时先用标签展示：
 
@@ -51,7 +49,6 @@ title: 赛博厨房？？？ 👨‍💻🍳
 
 ## 😋 the ultimate meaning of the existence of this site
 
-<br>
 
 由于我想要通过做出美味的料理来狠狠地享受生活，但是又记不住这些做菜的步骤，我弄了个这样的网站来帮助我做饭~😋  
 
