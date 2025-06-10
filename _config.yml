@@ -1,3 +1,47 @@
+# 网站基本信息
+title: "my secret recipes 🍳"
+description: "yummy yummy"
 baseurl: "/The-Secret-Ingredient"
-title: "Recipes"
+# url: "https://你的用户名.github.io" # 替换为你的GitHub用户名
+
+# 作者信息
+author:
+  name: "Madeline_"
+  email: "zMx202305@gmail.com"
+
+# 主题和外观
 theme: minima
+minima:
+  skin: auto # 支持深色模式
+  social_links:
+    github: MuxuZhao
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 菜谱分类
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+# 默认设置
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Madeline's grandmother"
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
+# 网站设置
+show_excerpts: true
+paginate: 5
