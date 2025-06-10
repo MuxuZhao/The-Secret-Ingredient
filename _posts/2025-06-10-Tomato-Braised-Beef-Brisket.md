@@ -7,7 +7,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 ---
 
 
-![西红柿烧牛腩]({{ page.image }})
+![西红柿烧牛腩]({{ site.baseurl }}/assets/images/tomato-braised-beef-brisket.jpg)
 
 ## 📝 material
 
