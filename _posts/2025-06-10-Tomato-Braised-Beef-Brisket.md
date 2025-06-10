@@ -3,7 +3,7 @@ layout: post
 title: "西红柿烧牛腩"
 date: 2025-06-10
 categories: [肉]
-image: "/assets/tomato-braised-beef-brisket.jpg"
+image: "/assets/images/tomato-braised-beef-brisket.jpg"
 ---
 
 
