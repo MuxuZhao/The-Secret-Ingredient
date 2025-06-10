@@ -150,6 +150,11 @@ title: 赛博厨房?👨‍💻🍳
   text-decoration: underline;
 }
 
+/* 隐藏主页 posts 部分的图片 */
+.blog .post-thumbnail {
+  display: none;
+}
+
 /* 移动端适配 */
 @media (max-width: 768px) {
   .recipe-card {
