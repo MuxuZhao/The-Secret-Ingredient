@@ -9,8 +9,6 @@ title: 赛博厨房？？？ 👨‍💻🍳
 
 ## 🔥 new recipes
 
-<br>
-
 {% for post in site.posts limit:3 %}
 <div class="recipe-card">
   {% if post.image %}
@@ -41,8 +39,6 @@ title: 赛博厨房？？？ 👨‍💻🍳
 
 ## 🍽️ categories
 
-<br>
-
 {% assign categories = site.categories | sort %}
 {% if categories.size > 0 %}
 {% for category in categories %}
@@ -64,18 +60,11 @@ title: 赛博厨房？？？ 👨‍💻🍳
 <br>
 
 ## 😋 the ultimate meaning of the existence of this site
-
-<br>
-
 由于我想要通过做出美味的料理来狠狠地享受生活，但是又记不住这些做菜的步骤，我弄了个这样的网站来帮助我做饭~😋  
 
 <br>
 
----
 
-**调试信息**：
-- 总共找到 {{ site.posts.size }} 个菜谱
-- 网站根目录：{{ site.baseurl }}
 
 <style>
 .recipe-card {
