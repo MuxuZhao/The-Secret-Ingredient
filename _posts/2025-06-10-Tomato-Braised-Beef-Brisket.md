@@ -20,6 +20,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 - 八角
 - 生抽老抽
 
+<br>
 
 ## 🔧 steps
 
@@ -33,6 +34,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 8. 加水漫过西红柿
 9. 煮到肉烂为止
 
+<br>
 
 ## ❗ PS
 如果觉得很好吃还可以在上面放些配菜，比如鹌鹑蛋或者生菜叶
