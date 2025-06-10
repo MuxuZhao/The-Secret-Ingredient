@@ -6,7 +6,7 @@ categories: [肉]
 tags: [牛腩, 番茄, 下饭菜]
 time: "2小时"
 servings: "3-4人份"
-image: "/assets/images/tomato-braised-beef-brisket.jpg"
+image: "/assets/tomato-braised-beef-brisket.jpg"
 ---
 
 
