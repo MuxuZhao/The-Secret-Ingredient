@@ -3,9 +3,6 @@ layout: post
 title: "西红柿烧牛腩"
 date: 2025-06-10
 categories: [肉]
-tags: [牛腩, 番茄, 下饭菜]
-time: "2小时"
-servings: "3-4人份"
 image: "/assets/tomato-braised-beef-brisket.jpg"
 ---
 
