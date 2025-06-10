@@ -5,12 +5,11 @@ date: 2025-06-10
 categories: [肉]
 image: "/assets/images/tomato-braised-beef-brisket.jpg"
 ---
-@老四
-<br>
+
 
 <style>
 .post-image {
-  max-width: 75%;
+  max-width: 80%;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -19,7 +18,7 @@ image: "/assets/images/tomato-braised-beef-brisket.jpg"
 </style>
 
 ![西红柿烧牛腩]({{ site.baseurl }}/assets/images/tomato-braised-beef-brisket.jpg){: .post-image}
-taste like grandmother's love
+@老四
 
 ## 📝 material
 
