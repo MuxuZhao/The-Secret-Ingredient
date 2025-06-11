@@ -44,6 +44,7 @@ image: "/assets/images/steamed-pork-ribs-with-rice-flour.jpg"
 7. 生抽老抽倒在排骨上，使其变色
 8. 用早谷米磨的米粉拌到排骨上，使每块都均匀裹上米粉
 9. 放到蒸锅里蒸熟
+10. 撒葱花
 
 <br>
 
